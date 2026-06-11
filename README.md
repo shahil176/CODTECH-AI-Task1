@@ -46,6 +46,7 @@ The practical applications of text summarization are extensive and include:
 
 • Business Report Summarization
 
+
 • Content Recommendation Systems
 
 • Document Management Systems
