@@ -54,3 +54,7 @@ The practical applications of text summarization are extensive and include:
 By completing this task, a deeper understanding of NLP techniques and AI-based text processing systems was achieved. The project demonstrates how machine learning and language processing technologies can be used to extract useful information from large amounts of text efficiently.
 
 In conclusion, the Text Summarization Tool successfully performs automatic summarization of textual content using NLP techniques. The project serves as a strong introduction to Artificial Intelligence applications and provides practical experience in building real-world NLP solutions using Python.
+
+##output: 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6caed8da-d112-457b-8f83-fe11482e5f8e" />
+
